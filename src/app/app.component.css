@@ -1,0 +1,14 @@
+.created{
+    background-color: green;
+    color: white;
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.removed{
+    background-color: red;
+    color: white;
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 14px;
+}
